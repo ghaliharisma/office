@@ -53,7 +53,7 @@ http://192.168.100.23:6878/ace/manifest.m3u8?id=37d6f1aabcde81ee6e4873b4db6b7bb8
 http://192.168.100.23:6878/ace/getstream?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47
 #EXTINF:-1  tvg-name="FOX Sports 2 [US]" tvg-id="403457" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="",FOX Sports 2 [US]
 http://192.168.100.23:6878/ace/getstream?infohash=e765303108614af0f9a42da7b45a147195982796
-#EXTINF:-1  tvg-name="Red Bull TV" tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png" group-title="",Red Bull TV
+#EXTINF:-1  tvg-name="Red Bull TV" tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="",Red Bull TV
 http://192.168.100.23:6878/ace/getstream?infohash=2c4cc43211c6de21ac7bd5fc4dc8cdfc991246ee
 #EXTINF:-1  tvg-name="Premier Sports 1 [UK]" tvg-id="408613" tvg-logo="https://epg.pw/media/images/epg/2025/02/14/20250214020739986975_47.png" group-title="",Premier Sports 1 [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac
